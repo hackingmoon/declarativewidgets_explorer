@@ -40,7 +40,7 @@
     "paper-radio-group": "PolymerElements/paper-radio-group#^1",
     "paper-radio-button": "PolymerElements/paper-radio-button#^1",
     "paper-toolbar": "PolymerElements/paper-toolbar#^1",
-    "vega-embed": "latest",
+    "vega-embed": "^2",
     "requirejs": "^2"
   },
   "devDependencies": {
